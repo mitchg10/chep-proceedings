@@ -6,3 +6,7 @@
 
 # Ignore all CSV files
 *.csv
+
+# Ignore all VSCode files
+.vscode/
+.DS_Store

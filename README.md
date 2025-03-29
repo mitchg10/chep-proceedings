@@ -60,14 +60,13 @@ This will install:
    ```
 3. Clone the repository containing the script by typing the following command and pressing Enter:
    ```bash
-   git clone https://github.com/your-repo/booklet-creator.git
+   git clone https://github.com/mitchg10/chep-proceedings.git
    ```
-   Replace `https://github.com/your-repo/booklet-creator.git` with the actual URL of the Git repository.
 
 #### Step 4.2: Download the Script Manually (If Git is Not Installed)
 1. Open a web browser and navigate to the GitHub repository URL:
    ```
-   https://github.com/your-repo/booklet-creator
+   https://github.com/mitchg10/chep-proceedings.git
    ```
 2. Click the green **Code** button and select **Download ZIP**.
 3. Extract the downloaded ZIP file to a directory of your choice.
