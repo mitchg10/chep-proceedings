@@ -1,0 +1,8 @@
+# Ignore all PDF files
+*.pdf
+
+# Ignore all DOCX files
+*.docx
+
+# Ignore all CSV files
+*.csv
